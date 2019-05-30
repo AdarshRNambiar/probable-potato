@@ -1,0 +1,13 @@
+Assignment
+
+event
+will be given no: of students
+
+hint:- student[] student =new student[n];//array of a class student
+
+Input all the students
+    name,rollno,class,age
+
+    store them if age is>=18
+    else throw an exeption(Custom)
+At last print the ones having age >=18(details)

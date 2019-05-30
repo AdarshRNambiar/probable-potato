@@ -1,0 +1,6 @@
+make previous assignment to arraylist
+
+
+
+
+2) hashmap of country code input from the file
